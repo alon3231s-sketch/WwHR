@@ -1,0 +1,9 @@
+{
+  "setup_complete": false,
+  "os": null,
+  "ytdlp_path": "yt-dlp",
+  "ytdlp_version": null,
+  "ffmpeg_available": null,
+  "install_method": null,
+  "installed_at": null
+}
