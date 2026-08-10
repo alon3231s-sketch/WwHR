@@ -1,0 +1,9 @@
+{
+  "setup_complete": false,
+  "os": null,
+  "ffmpeg_path": "ffmpeg",
+  "ffprobe_path": "ffprobe",
+  "ffmpeg_version": null,
+  "install_method": null,
+  "installed_at": null
+}
